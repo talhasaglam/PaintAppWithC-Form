@@ -1,0 +1,26 @@
+D:\Projelerim\b141210260 (1)\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe.config
+D:\Projelerim\b141210260 (1)\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe
+D:\Projelerim\b141210260 (1)\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.pdb
+D:\Projelerim\b141210260 (1)\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Form1.resources
+D:\Projelerim\b141210260 (1)\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Properties.Resources.resources
+D:\Projelerim\b141210260 (1)\ProjeOdevi\ProjeOdevi\obj\Debug\PaintApp.csproj.GenerateResource.cache
+D:\Projelerim\b141210260 (1)\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.exe
+D:\Projelerim\b141210260 (1)\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+D:\Projelerim\PaintApp\ProjeOdevi\bin\Debug\PaintApp.exe.config
+D:\Projelerim\PaintApp\ProjeOdevi\bin\Debug\PaintApp.exe
+D:\Projelerim\PaintApp\ProjeOdevi\bin\Debug\PaintApp.pdb
+D:\Projelerim\PaintApp\ProjeOdevi\bin\Debug\PaintApp.exe.CodeAnalysisLog.xml
+D:\Projelerim\PaintApp\ProjeOdevi\bin\Debug\PaintApp.exe.lastcodeanalysissucceeded
+D:\Projelerim\PaintApp\ProjeOdevi\obj\Debug\PaintApp.Form1.resources
+D:\Projelerim\PaintApp\ProjeOdevi\obj\Debug\PaintApp.Properties.Resources.resources
+D:\Projelerim\PaintApp\ProjeOdevi\obj\Debug\PaintApp.csproj.GenerateResource.cache
+D:\Projelerim\PaintApp\ProjeOdevi\obj\Debug\PaintApp.exe
+D:\Projelerim\PaintApp\ProjeOdevi\obj\Debug\PaintApp.pdb
+D:\Projelerim\PaintApp\PaintApp\bin\Debug\PaintApp.exe.config
+D:\Projelerim\PaintApp\PaintApp\bin\Debug\PaintApp.exe
+D:\Projelerim\PaintApp\PaintApp\bin\Debug\PaintApp.pdb
+D:\Projelerim\PaintApp\PaintApp\obj\Debug\PaintApp.Form1.resources
+D:\Projelerim\PaintApp\PaintApp\obj\Debug\PaintApp.Properties.Resources.resources
+D:\Projelerim\PaintApp\PaintApp\obj\Debug\PaintApp.csproj.GenerateResource.cache
+D:\Projelerim\PaintApp\PaintApp\obj\Debug\PaintApp.exe
+D:\Projelerim\PaintApp\PaintApp\obj\Debug\PaintApp.pdb
